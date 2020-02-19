@@ -1,0 +1,2 @@
+1. Prevented character from falling by adding very high mountains that character cannot jump over
+2. Made game a little bit interesting by adding fake final zones. light will turn to blue. One obvious fake final zone and another not that obvious but still fake final zone, and the real final zone is hidden around second fake final zone.

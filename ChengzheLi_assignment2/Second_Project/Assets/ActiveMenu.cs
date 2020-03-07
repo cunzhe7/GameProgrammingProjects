@@ -54,6 +54,7 @@ public class ActiveMenu : MonoBehaviour {
             if(position.y <= 75)
             {
                 ball2.transform.localScale = new Vector3(100,position.y+25,100);
+                ball2.transform.position = new Vector3(ball2.transform.position.x, 75, ball2.transform.position.z);
             }
 
             ball2.transform.position = position;
